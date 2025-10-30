@@ -8,7 +8,7 @@ An interactive educational simulation demonstrating probability theory, weighted
 
 Experience the simulator in action - no installation required. See how probability distributions and house edge work in real-time.
 
-![Demo Screenshot](screenshots/demo.png)
+![Demo Screenshot](demo.png)
 
 ---
 
